@@ -1,0 +1,45 @@
+ <header>
+            <nav>
+                <img src="0per.png" width="656px">
+            </nav>
+        </header>
+        <div id="main_target">
+            <div class="birth">
+                1992 ~
+            </div>
+            <p class="main_box">
+                PROFILE
+            </p>
+            <div class="name">
+                <p>
+                    PROGRAMMER ASPIRANT
+                </p>
+                <p class="introduce">
+                    CHO YOUNGJUN
+                </p>
+            </div>
+            <div class="index_box">
+                <p class = "index">
+                    Index
+                </p>
+                <ol type="I" start="I.">
+                <li>내가 좋아하는것</li>
+                <li>나는 이런 사람이에요</li>
+                <li>이런 일들을 해봤어요</li>
+                </ol>
+            </div>
+            <div class="travel_box">
+                <div id="travel_grid">
+                내가 좋아하는 것
+                <div>여행</div>
+            </div>
+            <div class="MBTI">
+                <span class="MBTI_first">
+                    MBTI
+                </span>
+                <span>
+                    사색을 즐기는 INFP
+                </span>
+            </div>
+            
+        </div>
